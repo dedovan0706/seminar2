@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\obj\Debug\net6.0\PROJECT5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\obj\Debug\net6.0\PROJECT5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\obj\Debug\net6.0\PROJECT5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\obj\Debug\net6.0\PROJECT5.AssemblyInfo.cs
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\obj\Debug\net6.0\PROJECT5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\bin\Debug\net6.0\PROJECT5.exe
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\bin\Debug\net6.0\PROJECT5.deps.json
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\bin\Debug\net6.0\PROJECT5.runtimeconfig.json
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\bin\Debug\net6.0\PROJECT5.dll
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\bin\Debug\net6.0\PROJECT5.pdb
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\obj\Debug\net6.0\PROJECT5.dll
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\obj\Debug\net6.0\refint\PROJECT5.dll
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\obj\Debug\net6.0\PROJECT5.pdb
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\obj\Debug\net6.0\PROJECT5.genruntimeconfig.cache
+C:\Users\User\Desktop\обучение\seminar2C#\PROJECT5\obj\Debug\net6.0\ref\PROJECT5.dll
